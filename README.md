@@ -10,12 +10,12 @@
 <br>
 
 
+<h3>Some things about me :-</h3>
+- 🌱 Has experience in Data Science, both as a data analyst and data scientist. However after learning my passion is to be more technical and developing products, i'm leaning on data engineer and currently learning data engineering via bootcamps and online course
 
-- 🌱 I’m currently learning Data Engineer
+- 📫 Email me at **adhamsiwi.as@gmail.com**
 
-- 📫 How to reach me **adhamsiwi.as@gmail.com**
-
-- ⚡ Fun fact :- Spending time at least 2 hours per day for learning anything. Mainly programming.
+- ⚡ Fun fact :- Spending time at least 2 hours per day for learning anything, mainly programming.
 
 <br>
 
