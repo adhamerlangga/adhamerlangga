@@ -10,12 +10,19 @@
 <br>
 
 
-<h3>Some things about me :-</h3>
+<h3>Some things about me :</h3>
+
 - 🌱 Has experience in Data Science, both as a data analyst and data scientist. However after learning my passion is to be more technical and developing products, i'm leaning on data engineer and currently learning data engineering via bootcamps and online course
+  
+- 🎓 Computer Science graduate with focus on ML / Data Science. Able to finish my studies in 3.5 years
+  
+- 📫 You could contact my email at **adhamsiwi.as@gmail.com**
 
-- 📫 Email me at **adhamsiwi.as@gmail.com**
+- 🎯 Spending time at least 2 hours per day for learning anything, mainly programming.
 
-- ⚡ Fun fact :- Spending time at least 2 hours per day for learning anything, mainly programming.
+- 📚 likes to read, especially personal development books
+  
+- 🎶 mainly listen lofi, vaporwave, or jazzhop music. 
 
 <br>
 
