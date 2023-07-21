@@ -20,9 +20,9 @@
 
 - 🎯 Spending time at least 2 hours per day for learning anything, mainly programming.
 
-- 📚 likes to read, especially personal development books
+- 📚 Likes to read, especially personal development books
   
-- 🎶 mainly listen lofi, vaporwave, or jazzhop music. 
+- 🎶 Mainly listen to lofi, vaporwave, or jazzhop music. 
 
 <br>
 
