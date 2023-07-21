@@ -29,7 +29,7 @@
       alt="adham erlangga's instagram" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/adhamsiwi_as?hr_r=1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Adham Erlangga Hackerrank" height="30" width="40" /></a>
+      alt="adham erlangga's Hackerrank" height="30" width="40" /></a>
 </p>
 
 <br />
