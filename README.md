@@ -12,7 +12,7 @@
 
 <h3>Some things about me :</h3>
 
-- 🌱 Has experience in Data Science, both as a data analyst and data scientist. However after learning my passion is to be more technical and developing products, i'm leaning on data engineer and currently learning data engineering via bootcamps and online course
+- 🌱 Has experience in Data Science, both as a data analyst and data scientist. However after learning my passion lean on more technical and developing products, i'm trying to transition to data engineer and currently learning data engineering via bootcamps and online course
   
 - 🎓 Computer Science graduate with focus on ML / Data Science. Able to finish my studies in 3.5 years
   
