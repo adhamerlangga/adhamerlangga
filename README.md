@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Erlangga Siwi</h1>
-<h3 align="center">Data Analyst who wants to transition to Data Engineer🌟.</h3>
+<h3 align="center">Currently active as a Data Engineer, had past experiences as a Data Analyst and Data Scientist🌟.</h3>
 
 <br>
 
